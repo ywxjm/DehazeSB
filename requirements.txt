@@ -1,0 +1,11 @@
+dominate
+omegaconf
+pytorch_msssim==1.0.0
+lpips
+transformers==4.37.2
+vision_aided_loss
+pyiqa==0.1.8
+torch==2.0.0
+
+
+
