@@ -3,7 +3,7 @@ Recent advancements in unpaired dehazing, particularly those using GANs, show pr
 
 ## Model Architecture
 
-![Model Overview](https://github.com/Retinal-Research/CUNSB-RFIE/blob/main/images/network_structure.png)
+![Model Overview]
 
 ### Installation
 
