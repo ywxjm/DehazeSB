@@ -23,11 +23,11 @@ The pre-trained weights can be found in the **./pretrained** directory.
 ## Training / testing on Dataset
 Start the training process by running the following command:
 ```sh
-bash /code/train_DehazeSB.sh 
+bash /train_DehazeSB.sh 
 ```
 Run the testing script:
 ```sh
-bash /code/test_dehaze.sh
+bash /test_dehaze.sh
 ```
 
 If you wish to train or test on your own dataset, simply modify the paths in the UnpairedDataSet and ValidationHaze2020 classes within data/unpaired_dataset.py.
