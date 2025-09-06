@@ -3,7 +3,7 @@ Recent advancements in unpaired dehazing, particularly those using GANs, show pr
 
 ## Model Architecture
 
-![Model Overview]
+![Model Overview](https://github.com/ywxjm/DehazeSB/blob/main/image/figure2.jpg)
 
 ### Installation
 
@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## Download training Dataset 
 
-Our training dataset can be downloaded by following the instructions provided [here](https://github.com/HzFu/EyeQ). The synthetic degraded images were generated using the algorithms described [here](https://github.com/joanshen0508/Fundus-correction-cofe-Net).
+Our training dataset can be downloaded in 
 
 ## Pretrained weight 
 
