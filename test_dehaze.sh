@@ -1,5 +1,5 @@
 
-python /code/test_CUNSB_dehaze.py \
+python test_CUNSB_dehaze.py \
 --netG "DCSNet_unetgan" \
 --phase "test" \
 --model dehazesbtest \
