@@ -12,17 +12,17 @@ pip install -r requirements.txt
 
 ## Download training Dataset 
 
-Our training dataset can be downloaded in 
+Our training dataset can be downloaded in train_data.txt
 
 ## Pretrained weight 
 
 The pre-trained weights can be found in the **./pretrained** directory.  
 
 
-## Training / testing on Custom Dataset
+## Training / testing on Dataset
 Start the training process by running the following command:
 ```sh
-bash /code/train_DehazeSB.sh
+bash /code/train_DehazeSB.sh 
 ```
 Run the testing script:
 ```sh
